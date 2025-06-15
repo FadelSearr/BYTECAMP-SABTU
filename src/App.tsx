@@ -1,5 +1,6 @@
 import About from "./components/About"
 import Home from "./components/Home"
+import Work from "./components/Work"
 
 const App = () => {
   return (
@@ -7,6 +8,8 @@ const App = () => {
       <Home />
 
       <About />
+
+      <Work />
     </div>
   )
 }

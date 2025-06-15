@@ -11,6 +11,9 @@ const About = () => {
                 <img src={aboutBackgroundImage} alt="about background image" />
 
                 <div>
+                    <h1>
+                        <span className="text-1xl font-bold text-yellow-500">About</span>
+                    </h1>
                     <p className="text-4xl font-bold text-[#4C4C4C]">Food Is An Important Part Of A Balanced Diet</p>
 
                     <p className="text-lg text-[#4C4C4C] mt-5 font-semibold">You can choose menus that are rich in nutriens and have special benefits, such as dieting.</p>
