@@ -15,7 +15,7 @@ const Navbar = () => {
 
                 <a href="#testimonials" className="font-semibold">Testimonials</a>
 
-                <a href="#" className="font-semibold">Contact</a>
+                <a href="#contact" className="font-semibold">Contact</a>
             </div>
 
             <div className="flex items-center gap-5 w-full justify-end">
